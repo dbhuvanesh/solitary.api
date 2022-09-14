@@ -1,2 +1,2 @@
 # solitary.api
-![roadmap](https://user-images.githubusercontent.com/104691614/189908039-cd0aa706-0bb7-4830-b443-52f293bd453c.jpg)
+<img width="4730" alt="roadmap" src="https://user-images.githubusercontent.com/104691614/190062885-17b9aefc-2981-4c8a-9944-49c3bcc333e0.png">
